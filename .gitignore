@@ -50,9 +50,3 @@ out/
 # Environment variables
 .env
 *.env.local
-
-# Maven
-.mvn/
-
-# IntelliJ IDEA
-.idea/
